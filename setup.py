@@ -4,7 +4,7 @@ import setuptools
 from os import path
 import re
 
-package_name = 'mypack'
+package_name = 'mypack_ytyaru_20200112'
 description = 'Publish the package with PyPI.'
 root_dir = path.abspath(path.dirname(__file__))
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.3
+
+* Package name changed from `mypack` to `mypack_ytyaru_20200112`
+
 ## 0.0.2
 
 * Fixed package name and version in \_\_init\_\_.py to correct values
