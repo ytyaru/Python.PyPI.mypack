@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.4
+
+* Fixed link to README to be correct
+
 ## 0.0.3
 
 * Package name changed from `mypack` to `mypack_ytyaru_20200112`

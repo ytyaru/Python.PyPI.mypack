@@ -1,4 +1,4 @@
-[en](./ReadMe.md)
+[en](./README.ja.md)
 
 # mypack
 
