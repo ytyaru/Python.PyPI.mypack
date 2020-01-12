@@ -4,3 +4,4 @@ include CHANGES.md
 include *.md
 include tests.sh
 exclude .gitignore
+exclude release.sh

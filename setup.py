@@ -5,6 +5,7 @@ from os import path
 import re
 
 package_name = 'mypack'
+description = 'Publish the package with PyPI.'
 root_dir = path.abspath(path.dirname(__file__))
 
 with open("README.md", "r") as f:
@@ -25,11 +26,11 @@ assert author_email
 assert url
 
 setuptools.setup(
-    name="textree",
-    version="0.0.1",
-    author="ytyaru",
-    author_email="pypi1@outlook.jp",
-    description="",
+    name=package_name,
+    version=version,
+    author=author,
+    author_email=author_email,
+    description=description,
     long_description=long_description,
     long_description_content_type="text/markdown",
     keywords="pypi,pip,practice,test,package,module",
