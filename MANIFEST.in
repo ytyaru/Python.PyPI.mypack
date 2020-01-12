@@ -1,0 +1,6 @@
+include LICENSE.txt
+include README.md
+include CHANGES.md
+include *.md
+include tests.sh
+exclude .gitignore
